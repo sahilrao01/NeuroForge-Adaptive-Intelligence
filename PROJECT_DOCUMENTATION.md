@@ -183,8 +183,7 @@ MIT License - Open Source
 
 ## 🙌 ACKNOWLEDGMENTS
 
-Created with Comet AI Automation  
-Original, novel architecture - NOT based on existing frameworks  
+Create by Sahil yadav, novel architecture - NOT based on existing frameworks  
 Designed for production-grade AI/ML applications
 
 ---
